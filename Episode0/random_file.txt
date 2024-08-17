@@ -1,0 +1,1 @@
+#Testing wheater directory structure is also copied during git push or not.
